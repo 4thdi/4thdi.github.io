@@ -1201,7 +1201,7 @@ a {
   float: right;
 }
 #toc.toc-article {
-  background: #eee;
+  background-color: rgba(245,245,245,0.9);
   -webkit-border-radius: 4px;
   border-radius: 4px;
   margin: 1.6em 0 1.6em 2em;
